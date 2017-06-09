@@ -1,0 +1,17 @@
+name,title,type
+title,Title,string
+details_url,Details url,string
+score,Score,double
+url,Item Url,string
+journal,Journal,string
+cited_by_fbwalls_count,Facebook,int
+cited_by_feeds_count,Blogs,int
+cited_by_gplus_count,Googleplus,int
+cited_by_msm_count,News,int
+cited_by_tweeters_count,Twitter,int
+cited_by_wikipedia_count,Wikipedia,int
+cited_by_policies_count,Policy Citation,int
+readers_count,Citation Readers,int
+citeulike,CiteULike,readers.int
+mendeley,Mendeley,readers.int
+connotea,Connotea,readers.int
